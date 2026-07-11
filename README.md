@@ -7,15 +7,22 @@ The report is designed to help financial institutions understand fraud trends, i
 
 Objectives
 
-Analyze fraudulent and genuine banking transactions.
-Identify high-risk transaction categories and payment methods.
-Monitor fraud trends over time.
-Compare domestic and international transaction risks.
-Enable interactive analysis using filters and slicers.
+-Analyze fraudulent and genuine banking transactions.
+
+-Identify high-risk transaction categories and payment methods.
+
+-Monitor fraud trends over time.
+
+-Compare domestic and international transaction risks.
+
+-Enable interactive analysis using filters and slicers.
 
 Tools & Technologies
 
-Microsoft Power BI
-Power Query
-DAX (Data Analysis Expressions)
-Interactive Dashboard Design
+1-Microsoft Power BI
+
+2-Power Query
+
+3-DAX (Data Analysis Expressions)
+
+4-Interactive Dashboard Design
